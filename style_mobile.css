@@ -394,7 +394,7 @@ border-radius:5px
     background-color: AEDEFC;
  }
  .card{
-    width: 44vw;
+    width: 40vw;
     border-radius: 10px;
     padding: 10px;
     padding-bottom: 20px;
@@ -422,7 +422,6 @@ border-radius:5px
  }
  section{
     border-radius: 20px;
-    width: 99vw;
     padding-top: 20px;
     padding-bottom: 20px;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
